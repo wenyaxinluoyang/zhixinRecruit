@@ -11,7 +11,10 @@
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/login.jpg)</br>
 注册界面（和登录界面样式相同，采用短信验证方式注册）</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/register.jpg)</br>
-网站新闻咨询界面（招聘者/求职者共同拥有的模块）
+网站新闻咨询界面（招聘者/求职者共同拥有的模块）</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/showNews.gif)</br>
+在线简历制作界面（制作简历+预览简历+下载简历为pdf,图中社交主页信息bug以修正）</br>
+![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/resume.gif)</br>
+
 
 
