@@ -1,6 +1,7 @@
 # zhixinRecruit
 知心招聘是一个招聘网站，其部分界面和功能仿照Boss直聘写成。因为这个是我的毕业设计，因此在</br>
 毕业之前暂时不会上传源码，现在只分享一些界面效果图作为参考。</br>
+以下图片有部分图片为gif动图，请在readme多做停留即可完全显示并播放。可以查看网站动态效果。
 </br></br>
 系统功能图</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/Architecture.png)</br>
