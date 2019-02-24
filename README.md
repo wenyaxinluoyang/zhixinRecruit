@@ -15,6 +15,7 @@
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/showNews.gif)</br></br>
 在线简历制作界面（制作简历+预览简历+下载简历为pdf,图中社交主页信息bug以修正）</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/resume.gif)</br></br>
-
-
-
+求职界面（可以进行职位检索）</br>
+![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/searchJob.jpg)</br></br>
+查看职位详情界面</br>
+![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/jobDetail.jpg)</br></br>
