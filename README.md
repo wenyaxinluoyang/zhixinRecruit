@@ -19,3 +19,5 @@
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/searchJob.jpg)</br></br>
 查看职位详情界面</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/jobDetail.jpg)</br></br>
+公司信息职位综合界面</br>
+![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/compDetail.gif)</br></br>
