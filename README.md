@@ -5,7 +5,12 @@
 </br></br>
 系统功能图</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/Architecture.png)</br>
-用户身份：求职者</br>
+</br>
+求职者功能模块：
+1.注册与登录功能效果图
+![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/注册和登录.gif)</br>
+</br>
+
 1.求职者/招聘者登录/注册界面</br>
 登录界面（采用短信验证码登录）</br>
 ![Error载入出错](https://github.com/wenyaxinluoyang/zhixinRecruit/blob/master/images/login.jpg)</br>
